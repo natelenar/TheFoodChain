@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="White">#FFFFFF</color>
+    <color name="DarkBrown">#764E3D</color>
+    <color name="LightBrown">#AF745B</color>
+    <color name="LightBlue">#D1EBE0</color>
+    <color name="MediumBlue">#7AC4AD</color>
+    <color name="Turquoise">#008B6A</color>
+    <color name="DarkGreen">#0D3E1E</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+
+</resources>
+
