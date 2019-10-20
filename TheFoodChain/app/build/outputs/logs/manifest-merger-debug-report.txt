@@ -1,0 +1,363 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.gms:play-services:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\39f8716d6ceabc3024d7ad8e35b41adc\play-services-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd678c992b142353aba79a1964171113\jetified-play-services-cast-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\49d3a40f7c8b61fd7f6a426403d1d72b\mediarouter-1.0.0-alpha5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f5bdf8930f5b0dade80802408310dda6\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\c1763829f79bc3811543d2bb9a22b866\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f65df4239a062f82cbdeac52b3d515ec\jetified-play-services-analytics-7.8.0\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\49bcb0e509664f1f3a2abc34e336bdbe\jetified-play-services-appindexing-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a33f74aae2d3d1f54e1173298f0191d3\jetified-play-services-appinvite-7.8.0\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b811a7aeaed8b99d4346ce40487dfa09\jetified-play-services-appstate-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-games:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\43c42bd5654c560ba0464c2f231d3ab1\jetified-play-services-games-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b24acc2f127352207650d09d8faece13\jetified-play-services-drive-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cb0e0fe7591f8cfb24380fe5f17d043e\jetified-play-services-fitness-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca5ec788f9eb96bd55d51d324e3f915f\jetified-play-services-gcm-7.8.0\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6d8d9296b4a81301f611d8d3a4a44048\jetified-play-services-wallet-7.8.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\05f849e2a710917c753e54c84a685a85\jetified-play-services-identity-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6dbdaae5d6b04fb4d7b5167ba6675248\jetified-play-services-location-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\d27531f30270ed94a49bd918f104744a\jetified-play-services-nearby-7.8.0\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cdc0d6be75c3f367ed0a9a1ed01d4534\jetified-play-services-panorama-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\117867a211ac3e7369b8fc26ae9fb934\jetified-play-services-plus-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\03f4b3ebcb3ce951ccd577852597ee71\jetified-play-services-safetynet-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a6c215c878775540bdbaa7b4e1e11500\jetified-play-services-vision-7.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\482cdaceb5251abe85fea0d3e6265515\jetified-play-services-wearable-7.8.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd27eb69881ecc79e5c95d81372caac0\jetified-play-services-base-7.8.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\1d93c655cdcaa19a3180f48e63f30b3d\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\df9a84c4655b7cf6fd3ecff2821fd9d3\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a44642c3bddc1cd9ae77529ce5394be3\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\d3a88b910c005a93b7c84f8202eb8112\recyclerview-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\67e3a22614326cadf216274f01d6d423\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\3d66247cb3e229dc7753f5f4d3b35b4b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7ae8c1d65b7331eeb350edf91287a16c\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b237af51f025cf494628267e37c5c2a3\palette-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\984e9edaa0792ad5f44429be517dd8ee\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\de3b4aff63e255359d6d83ac6fbdaff5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b96b3435fb358bdd7f04f1152639314c\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bf0848ee243e36dc13961016c6f63543\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9572194aa98bde0ee13f87e0985824cf\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cbfe81a657ef2afb513a6ca64388f844\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\985ff358bb91108c25d3fd24361b35b6\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\2dfde23a071269bfc073d57af77f7873\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca3d7eca040c7d85707cca318d2b7937\media2-1.0.0-alpha02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\e7201af0ac6a1eb782d2b896d1ec4242\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9b9140e118d7f4f83e504277c0661cb2\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7b3b7b721ad53547c0e35001526b3ae3\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fb37b7f790edcc9d7fe6d3e5314b8c56\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9a29ee90fd211f611caccd9d338a3e44\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\1bd2f6a321d0549948d7f1edb5f036d6\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\55566c395264c409f125230efea7fd76\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f031147607d3aeb238f176a00d5e308c\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\2d1f640c1b4beb33089ff5c91bbd7f31\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\e7284bace20bec096294b5474e153fbf\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\8506ddbc1ed30380944ad7f0369e4760\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\35d6382087ac1999db47004e3bf24934\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\8893b90c6f2a61edd1acfa898cb4cde1\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.gms:play-services:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\39f8716d6ceabc3024d7ad8e35b41adc\play-services-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\39f8716d6ceabc3024d7ad8e35b41adc\play-services-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd678c992b142353aba79a1964171113\jetified-play-services-cast-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd678c992b142353aba79a1964171113\jetified-play-services-cast-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\c1763829f79bc3811543d2bb9a22b866\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\c1763829f79bc3811543d2bb9a22b866\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f65df4239a062f82cbdeac52b3d515ec\jetified-play-services-analytics-7.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f65df4239a062f82cbdeac52b3d515ec\jetified-play-services-analytics-7.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\49bcb0e509664f1f3a2abc34e336bdbe\jetified-play-services-appindexing-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\49bcb0e509664f1f3a2abc34e336bdbe\jetified-play-services-appindexing-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a33f74aae2d3d1f54e1173298f0191d3\jetified-play-services-appinvite-7.8.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a33f74aae2d3d1f54e1173298f0191d3\jetified-play-services-appinvite-7.8.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b811a7aeaed8b99d4346ce40487dfa09\jetified-play-services-appstate-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b811a7aeaed8b99d4346ce40487dfa09\jetified-play-services-appstate-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\43c42bd5654c560ba0464c2f231d3ab1\jetified-play-services-games-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\43c42bd5654c560ba0464c2f231d3ab1\jetified-play-services-games-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b24acc2f127352207650d09d8faece13\jetified-play-services-drive-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b24acc2f127352207650d09d8faece13\jetified-play-services-drive-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cb0e0fe7591f8cfb24380fe5f17d043e\jetified-play-services-fitness-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cb0e0fe7591f8cfb24380fe5f17d043e\jetified-play-services-fitness-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca5ec788f9eb96bd55d51d324e3f915f\jetified-play-services-gcm-7.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca5ec788f9eb96bd55d51d324e3f915f\jetified-play-services-gcm-7.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\05f849e2a710917c753e54c84a685a85\jetified-play-services-identity-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\05f849e2a710917c753e54c84a685a85\jetified-play-services-identity-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6dbdaae5d6b04fb4d7b5167ba6675248\jetified-play-services-location-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6dbdaae5d6b04fb4d7b5167ba6675248\jetified-play-services-location-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\d27531f30270ed94a49bd918f104744a\jetified-play-services-nearby-7.8.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\d27531f30270ed94a49bd918f104744a\jetified-play-services-nearby-7.8.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cdc0d6be75c3f367ed0a9a1ed01d4534\jetified-play-services-panorama-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cdc0d6be75c3f367ed0a9a1ed01d4534\jetified-play-services-panorama-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\117867a211ac3e7369b8fc26ae9fb934\jetified-play-services-plus-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\117867a211ac3e7369b8fc26ae9fb934\jetified-play-services-plus-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\03f4b3ebcb3ce951ccd577852597ee71\jetified-play-services-safetynet-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\03f4b3ebcb3ce951ccd577852597ee71\jetified-play-services-safetynet-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a6c215c878775540bdbaa7b4e1e11500\jetified-play-services-vision-7.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a6c215c878775540bdbaa7b4e1e11500\jetified-play-services-vision-7.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\482cdaceb5251abe85fea0d3e6265515\jetified-play-services-wearable-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\482cdaceb5251abe85fea0d3e6265515\jetified-play-services-wearable-7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd27eb69881ecc79e5c95d81372caac0\jetified-play-services-base-7.8.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd27eb69881ecc79e5c95d81372caac0\jetified-play-services-base-7.8.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9a29ee90fd211f611caccd9d338a3e44\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9a29ee90fd211f611caccd9d338a3e44\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.thefoodchain.MainActivity
+ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\39f8716d6ceabc3024d7ad8e35b41adc\play-services-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\39f8716d6ceabc3024d7ad8e35b41adc\play-services-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd678c992b142353aba79a1964171113\jetified-play-services-cast-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd678c992b142353aba79a1964171113\jetified-play-services-cast-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\49d3a40f7c8b61fd7f6a426403d1d72b\mediarouter-1.0.0-alpha5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\49d3a40f7c8b61fd7f6a426403d1d72b\mediarouter-1.0.0-alpha5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f5bdf8930f5b0dade80802408310dda6\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f5bdf8930f5b0dade80802408310dda6\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\c1763829f79bc3811543d2bb9a22b866\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\c1763829f79bc3811543d2bb9a22b866\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f65df4239a062f82cbdeac52b3d515ec\jetified-play-services-analytics-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f65df4239a062f82cbdeac52b3d515ec\jetified-play-services-analytics-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\49bcb0e509664f1f3a2abc34e336bdbe\jetified-play-services-appindexing-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\49bcb0e509664f1f3a2abc34e336bdbe\jetified-play-services-appindexing-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a33f74aae2d3d1f54e1173298f0191d3\jetified-play-services-appinvite-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a33f74aae2d3d1f54e1173298f0191d3\jetified-play-services-appinvite-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b811a7aeaed8b99d4346ce40487dfa09\jetified-play-services-appstate-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b811a7aeaed8b99d4346ce40487dfa09\jetified-play-services-appstate-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\43c42bd5654c560ba0464c2f231d3ab1\jetified-play-services-games-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\43c42bd5654c560ba0464c2f231d3ab1\jetified-play-services-games-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b24acc2f127352207650d09d8faece13\jetified-play-services-drive-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b24acc2f127352207650d09d8faece13\jetified-play-services-drive-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cb0e0fe7591f8cfb24380fe5f17d043e\jetified-play-services-fitness-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cb0e0fe7591f8cfb24380fe5f17d043e\jetified-play-services-fitness-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca5ec788f9eb96bd55d51d324e3f915f\jetified-play-services-gcm-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca5ec788f9eb96bd55d51d324e3f915f\jetified-play-services-gcm-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6d8d9296b4a81301f611d8d3a4a44048\jetified-play-services-wallet-7.8.0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6d8d9296b4a81301f611d8d3a4a44048\jetified-play-services-wallet-7.8.0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\05f849e2a710917c753e54c84a685a85\jetified-play-services-identity-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\05f849e2a710917c753e54c84a685a85\jetified-play-services-identity-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6dbdaae5d6b04fb4d7b5167ba6675248\jetified-play-services-location-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6dbdaae5d6b04fb4d7b5167ba6675248\jetified-play-services-location-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\d27531f30270ed94a49bd918f104744a\jetified-play-services-nearby-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\d27531f30270ed94a49bd918f104744a\jetified-play-services-nearby-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cdc0d6be75c3f367ed0a9a1ed01d4534\jetified-play-services-panorama-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cdc0d6be75c3f367ed0a9a1ed01d4534\jetified-play-services-panorama-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\117867a211ac3e7369b8fc26ae9fb934\jetified-play-services-plus-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\117867a211ac3e7369b8fc26ae9fb934\jetified-play-services-plus-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\03f4b3ebcb3ce951ccd577852597ee71\jetified-play-services-safetynet-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\03f4b3ebcb3ce951ccd577852597ee71\jetified-play-services-safetynet-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a6c215c878775540bdbaa7b4e1e11500\jetified-play-services-vision-7.8.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a6c215c878775540bdbaa7b4e1e11500\jetified-play-services-vision-7.8.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\482cdaceb5251abe85fea0d3e6265515\jetified-play-services-wearable-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\482cdaceb5251abe85fea0d3e6265515\jetified-play-services-wearable-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd27eb69881ecc79e5c95d81372caac0\jetified-play-services-base-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd27eb69881ecc79e5c95d81372caac0\jetified-play-services-base-7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\1d93c655cdcaa19a3180f48e63f30b3d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\1d93c655cdcaa19a3180f48e63f30b3d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\df9a84c4655b7cf6fd3ecff2821fd9d3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\df9a84c4655b7cf6fd3ecff2821fd9d3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a44642c3bddc1cd9ae77529ce5394be3\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a44642c3bddc1cd9ae77529ce5394be3\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\d3a88b910c005a93b7c84f8202eb8112\recyclerview-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\d3a88b910c005a93b7c84f8202eb8112\recyclerview-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\67e3a22614326cadf216274f01d6d423\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\67e3a22614326cadf216274f01d6d423\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\3d66247cb3e229dc7753f5f4d3b35b4b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\3d66247cb3e229dc7753f5f4d3b35b4b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7ae8c1d65b7331eeb350edf91287a16c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7ae8c1d65b7331eeb350edf91287a16c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b237af51f025cf494628267e37c5c2a3\palette-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b237af51f025cf494628267e37c5c2a3\palette-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\984e9edaa0792ad5f44429be517dd8ee\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\984e9edaa0792ad5f44429be517dd8ee\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\de3b4aff63e255359d6d83ac6fbdaff5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\de3b4aff63e255359d6d83ac6fbdaff5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b96b3435fb358bdd7f04f1152639314c\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\b96b3435fb358bdd7f04f1152639314c\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bf0848ee243e36dc13961016c6f63543\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bf0848ee243e36dc13961016c6f63543\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9572194aa98bde0ee13f87e0985824cf\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9572194aa98bde0ee13f87e0985824cf\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cbfe81a657ef2afb513a6ca64388f844\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\cbfe81a657ef2afb513a6ca64388f844\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\985ff358bb91108c25d3fd24361b35b6\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\985ff358bb91108c25d3fd24361b35b6\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\2dfde23a071269bfc073d57af77f7873\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\2dfde23a071269bfc073d57af77f7873\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca3d7eca040c7d85707cca318d2b7937\media2-1.0.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca3d7eca040c7d85707cca318d2b7937\media2-1.0.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\e7201af0ac6a1eb782d2b896d1ec4242\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\e7201af0ac6a1eb782d2b896d1ec4242\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9b9140e118d7f4f83e504277c0661cb2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9b9140e118d7f4f83e504277c0661cb2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7b3b7b721ad53547c0e35001526b3ae3\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7b3b7b721ad53547c0e35001526b3ae3\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fb37b7f790edcc9d7fe6d3e5314b8c56\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fb37b7f790edcc9d7fe6d3e5314b8c56\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9a29ee90fd211f611caccd9d338a3e44\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\9a29ee90fd211f611caccd9d338a3e44\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\1bd2f6a321d0549948d7f1edb5f036d6\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\1bd2f6a321d0549948d7f1edb5f036d6\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\55566c395264c409f125230efea7fd76\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\55566c395264c409f125230efea7fd76\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f031147607d3aeb238f176a00d5e308c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f031147607d3aeb238f176a00d5e308c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\2d1f640c1b4beb33089ff5c91bbd7f31\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\2d1f640c1b4beb33089ff5c91bbd7f31\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\e7284bace20bec096294b5474e153fbf\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\e7284bace20bec096294b5474e153fbf\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\8506ddbc1ed30380944ad7f0369e4760\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\8506ddbc1ed30380944ad7f0369e4760\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\35d6382087ac1999db47004e3bf24934\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\35d6382087ac1999db47004e3bf24934\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\8893b90c6f2a61edd1acfa898cb4cde1\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\8893b90c6f2a61edd1acfa898cb4cde1\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f65df4239a062f82cbdeac52b3d515ec\jetified-play-services-analytics-7.8.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f65df4239a062f82cbdeac52b3d515ec\jetified-play-services-analytics-7.8.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a33f74aae2d3d1f54e1173298f0191d3\jetified-play-services-appinvite-7.8.0\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\a33f74aae2d3d1f54e1173298f0191d3\jetified-play-services-appinvite-7.8.0\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca5ec788f9eb96bd55d51d324e3f915f\jetified-play-services-gcm-7.8.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca5ec788f9eb96bd55d51d324e3f915f\jetified-play-services-gcm-7.8.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6d8d9296b4a81301f611d8d3a4a44048\jetified-play-services-wallet-7.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6d8d9296b4a81301f611d8d3a4a44048\jetified-play-services-wallet-7.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f65df4239a062f82cbdeac52b3d515ec\jetified-play-services-analytics-7.8.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\f65df4239a062f82cbdeac52b3d515ec\jetified-play-services-analytics-7.8.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\d27531f30270ed94a49bd918f104744a\jetified-play-services-nearby-7.8.0\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\d27531f30270ed94a49bd918f104744a\jetified-play-services-nearby-7.8.0\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:21:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\bae9ffa2e5a3e2eceae4fcaf9f019142\jetified-play-services-ads-7.8.0\AndroidManifest.xml:30:19-91
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca5ec788f9eb96bd55d51d324e3f915f\jetified-play-services-gcm-7.8.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\ca5ec788f9eb96bd55d51d324e3f915f\jetified-play-services-gcm-7.8.0\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6d8d9296b4a81301f611d8d3a4a44048\jetified-play-services-wallet-7.8.0\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6d8d9296b4a81301f611d8d3a4a44048\jetified-play-services-wallet-7.8.0\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6d8d9296b4a81301f611d8d3a4a44048\jetified-play-services-wallet-7.8.0\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\6d8d9296b4a81301f611d8d3a4a44048\jetified-play-services-wallet-7.8.0\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:22:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\860ef7b731470399641f041ccd3e0fa1\jetified-play-services-maps-7.8.0\AndroidManifest.xml:25:8-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Nate\MadHacks\TheFoodChain\app\src\main\AndroidManifest.xml:2:1-24:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd27eb69881ecc79e5c95d81372caac0\jetified-play-services-base-7.8.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd27eb69881ecc79e5c95d81372caac0\jetified-play-services-base-7.8.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\Nate\.gradle\caches\transforms-2\files-2.1\fd27eb69881ecc79e5c95d81372caac0\jetified-play-services-base-7.8.0\AndroidManifest.xml:22:13-58
